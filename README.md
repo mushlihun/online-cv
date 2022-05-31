@@ -2,10 +2,6 @@
 <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
 </a>
 
-# Orbit
-> This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/).
-> Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
-
 I have made this into a Jekyll Theme. Checkout the live demo [here](https://online-cv.webjeda.com).
 
 <table>
@@ -32,8 +28,6 @@ I have made this into a Jekyll Theme. Checkout the live demo [here](https://onli
 * Your new site should be ready at `https://username.github.io/online-cv/`
 
 Change all the details from one place: ``_data/data.yml``
-
-Watch my [video](https://www.youtube.com/embed/T2nx6tj-ZH4) on installation.
 
 ## To preview/edit localy with docker
 
