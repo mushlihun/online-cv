@@ -9,13 +9,13 @@ sidebar:
     # Profile information
     name: Mushlihun
     tagline: Analyst Programmer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: mushlihun@yahoo.co.id
     phone: 012 345 6789
     citizenship:
-    website: https://www.linkedin.com/in/mushlihun #do not add http://
+    website: www.linkedin.com/in/mushlihun #do not add http://
     linkedin: mushlihun
     xing: mushlihun
     github: mushlihun
@@ -81,9 +81,9 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Analyst Programmer
+      time: 2019 - Present
+      company: Asiapay Indonesia, Jakarta-Indonesia
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -96,9 +96,9 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: IT Full Stack
+      time: 2019
+      company: PT Gerbang Duabelas, Pontianak
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -107,9 +107,9 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Java Developer
+      time: 2016 - 2018
+      company: Astra Graphia Information Technology, Jakarta-Indonesia
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -119,7 +119,7 @@ experiences:
           - Bullet point
           - Bullet point
 projects:
-    title: Projects
+    title: Astra Property
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -146,7 +146,7 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Champion 2nd Kalibr - Mandiri
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
@@ -171,7 +171,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Mobile (Android&iOS)
         level: 98%
 
       - name: Javascript & jQuery
@@ -184,10 +184,10 @@ skills:
         level: 95%
 
       - name: Ruby on Rails
-        level: 85%
+        level: 75%
 
       - name: Sketch & Photoshop
-        level: 60%
+        level: 90%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="www.linkedin.com/in/mushlihun" target="_blank" rel="nofollow">Mushlihun</a>
